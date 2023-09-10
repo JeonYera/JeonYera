@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=springboot&logoColor=#6DB33F"/>
+<img src="https://img.shields.io/badge/Springboot-3DDC84?style=flat-square&logo=springboot&logoColor=#6DB33F"/>
