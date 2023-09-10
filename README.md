@@ -1,6 +1,5 @@
 
-<h2>Back-end Engineer JeonYera, 끊임없이 성장하는 개발</h2>
-***
+<h2>Back-end Engineer JeonYera, 끊임없이 성장하는 개발자</h2>
 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
