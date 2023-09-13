@@ -1,5 +1,5 @@
 
-<h2>Back-end Engineer JeonYera, 함께 일하고싶은 개발자</h2>
+<h2>Back-end Engineer JeonYera, 함께 일하고 싶은 개발자</h2>
 
 - 매일 1회 이상의 커밋을 실천하고 있습니다.
 - 문제 해결 과정에서의 즐거움을 느끼며,  끈기를 가지고 해결책을 찾는 데에 흥미를 느낍니다.
