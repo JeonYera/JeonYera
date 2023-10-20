@@ -1,12 +1,12 @@
-
-<h2>Back-end Engineer JeonYera, 함께 일하고 싶은 개발자</h2>
+<div align="center">
+  <h2 style="color: #000;">Back-end Engineer JeonYera, 함께 일하고 싶은 개발자</h2>
   
  안녕하세요, 백엔드 신입 개발자 전예라입니다. 제가 생각하는 <strong>함께 일하고 싶은 개발자</strong>란 
  <br/>꾸준함과 소통능력을 가진 사람이며 그걸 증명하기 위해 <strong>매일 1회 이상 커밋</strong>을 하고 있습니다. 
  <br/><strong>사회성이 정말로 좋습니다.</strong> 둥글둥글하고 원만한 성격으로 동료와의 원활한 커뮤니케이션이 가능합니다.
  <br/>
  <br/>
-  <h2>✨ STACKS</h2>
+  <h2>✨ <strong>STACKS</strong></h2>
   <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Jsp-007054?style=flat-square&logoColor=white"/> 
@@ -24,3 +24,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   
   <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonYera&show_icons=true&theme=buefy)-->
+</div>
