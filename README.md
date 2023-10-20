@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 style="color: #000;">Back-end Engineer JeonYera, 함께 일하고 싶은 개발자</h2>
+ <h2>Back-end Engineer JeonYera, 함께 일하고 싶은 개발자</h2>
   
  안녕하세요, 백엔드 신입 개발자 전예라입니다. 제가 생각하는 <strong>함께 일하고 싶은 개발자</strong>란 
  <br/>꾸준함과 소통능력을 가진 사람이며 그걸 증명하기 위해 <strong>매일 1회 이상 커밋</strong>을 하고 있습니다. 
