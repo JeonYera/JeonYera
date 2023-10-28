@@ -23,6 +23,4 @@
   <img src="https://img.shields.io/badge/Apachetomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  
-  <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeonYera&show_icons=true&theme=buefy)-->
 </div>
