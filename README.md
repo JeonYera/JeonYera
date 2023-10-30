@@ -2,7 +2,7 @@
  <img src="https://drive.google.com/uc?export=view&id=1GrqtnoNXjUI_bSkW-V4nTyE7AC7L1NaF">
  <h2>👀 Back-end Engineer JeonYera</h2>
   
- 안녕하세요, 백엔드 개발자 전예라입니다.
+ 안녕하세요! <strong>백엔드 개발자</strong> 전예라입니다.
  <br/><strong>함께 일하고 싶은 개발자</strong>가 되기 위해 노력하고 있습니다. 
  <br/>들어오신 김에, 제 반려동물 <strong>호두</strong>도 보고가세요🐶
  <br/>
