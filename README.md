@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://drive.google.com/uc?export=view&id=1GrqtnoNXjUI_bSkW-V4nTyE7AC7L1NaF">
- <h2>👀 Back-end Engineer JeonYera</h2>
+ <h2>👀 Back-end Developer JeonYera</h2>
   
  안녕하세요! <strong>백엔드 개발자</strong> 전예라입니다.
  <br/><strong>함께 일하고 싶은 개발자</strong>가 되기 위해 노력하고 있습니다. 
